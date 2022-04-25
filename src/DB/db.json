@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "email": "bedei111@umn.edu",
+      "name": "salah bedeiwi 33356",
+      "password": "salah",
+      "id": 1
+    },
+    {
+      "email": "bedei222@umn.edu",
+      "name": "salah bedeiwi",
+      "password": "salah",
+      "id": 2
+    },
+    {
+      "email": "bedei333@umn.edu",
+      "name": "salah bedeiwi",
+      "password": "salah",
+      "id": 3
+    },
+    {
+      "email": "bedei444@umn.edu",
+      "name": "salah i bedeiwi",
+      "password": "salah",
+      "id": 4
+    },
+    {
+      "email": "salah@umn.edu",
+      "name": "Mohamed Salah",
+      "password": "salah",
+      "id": 5
+    },
+    {
+      "email": "khaled@umn.edu",
+      "name": "Khaled Ahmed",
+      "password": "salah",
+      "id": 6
+    },
+    {
+      "email": "ahmed@123.com",
+      "name": "Ahmed Elawady",
+      "password": "salah",
+      "id": 7
+    },
+    {
+      "email": "salah123@gmail.com",
+      "name": "salah i bedeiwi",
+      "password": "salah",
+      "id": 8
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "contact": "612.345.6789",
+      "address": "Spring Lake Park, Mn",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Mcdonalds",
+      "contact": "644.444.4444",
+      "address": "Minneaplis, Mn",
+      "id": 2,
+      "userId": 2
+    },
+    {
+      "name": "Mcdonalds",
+      "contact": "644.444.4444",
+      "address": "Minneaplis, Mn",
+      "id": 4,
+      "userId": 2
+    },
+    {
+      "name": "Burger Kind",
+      "contact": "698.765.4321",
+      "address": "St. Paul, Mn",
+      "id": 5,
+      "userId": 3
+    },
+    {
+      "name": "Hooks Fish and Chicken",
+      "contact": "7632281634",
+      "address": "St Paul, MN",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "contact": "612.501.4314",
+      "address": "Savage, Mn",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Bedeiwi Burger",
+      "contact": "612.644.1634",
+      "address": "California Baby 3",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "name": "Elawadi 112",
+      "contact": "612.112.1121",
+      "address": "California and New Jersey",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "name": "KFC",
+      "contact": "0109.437.3639",
+      "address": "Egypt",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "TafTaf Res",
+      "contact": "612.644.1634",
+      "address": "Minneapolis, Mn",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "name": "Mariam Bedeiwi",
+      "contact": "612.644.1634",
+      "address": "World Wide",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "name": "Shaklee's Restaurants",
+      "contact": "6126441634",
+      "address": "California",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "contact": "612.654.1634",
+      "address": "California, USA",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "name": "Elawady 1st",
+      "contact": "612.644.1634",
+      "address": "Spring Lake Park",
+      "userId": 7,
+      "id": 17
+    },
+    {
+      "name": "Hooks Fish 1",
+      "contact": "612.612.6121",
+      "address": "Minnesota, USA",
+      "userId": 1,
+      "id": 18
+    }
+  ]
+}
